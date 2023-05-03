@@ -12,4 +12,8 @@ public class Application {
     private void doSomethingNew(){
         System.out.println("Doing somethingNew");
     }
+
+    private void doSomethingBig(){
+        System.out.println("Doing somethingBig");
+    }
 }
