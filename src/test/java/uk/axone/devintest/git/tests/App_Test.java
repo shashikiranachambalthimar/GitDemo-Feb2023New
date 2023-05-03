@@ -9,5 +9,8 @@ public class App_Test {
     public void test1(){
         System.out.println("Running test1");
     }
+    public void test2(){
+        System.out.println("Running test2");
+    }
 
 }

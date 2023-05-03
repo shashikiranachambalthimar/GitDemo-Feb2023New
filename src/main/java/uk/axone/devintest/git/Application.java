@@ -8,4 +8,8 @@ public class Application {
    private void doSomething(){
        System.out.println("Doing something");
    }
+
+    private void doSomethingNew(){
+        System.out.println("Doing somethingNew");
+    }
 }
