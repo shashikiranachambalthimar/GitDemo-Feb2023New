@@ -21,5 +21,8 @@ public class App_Test {
     public void test5(){
         System.out.println("Running test5");
     }
+    public void test5(){
+        System.out.println("Running test5");
+    }
 
 }
